@@ -1,2 +1,3 @@
 # project-demo
-This is my first github project
+This is my first github Repository.
+Author-Sameer kumar
